@@ -60,27 +60,28 @@
 /* ========================================== */
 /* header style */
 
-/* .navbar{
+.navbar{
     display: flex;
-  
     justify-content: space-between;
 
 }
 .logo{
     font-size: 30px;
-    padding: 20px 0px 20px 0px;
+    font-weight: 600;
+    padding: 20px 0px;
+
 }
 .btn{
     padding: 10px 15px;
     color: #006A50;
     border-radius: 5px;
-    font-weight: 500;
+    font-weight: 600;
     border: 1px solid #006A50;
     font-size: 18px;
     background-color: #FFFFFF;
-} */
+    margin-top: 15px;
 
-
+}
 .banner{
     display: flex;
     height: 70vh;
